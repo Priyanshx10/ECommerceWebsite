@@ -22,7 +22,7 @@ function Header() {
           <a href="/Product" className="font-bold text-sm text-gray-400">Products</a>
         </div>
         <div className="flex items-center py-6">
-          <a href="/Newsletter" className="font-bold text-sm text-gray-400">NewsLetter</a>
+          <a href="/NewsLetter" className="font-bold text-sm text-gray-400">NewsLetter</a>
         </div>
         <div className="flex items-center py-6">
           <a href="/Contact" className="font-bold text-sm text-gray-400">Contact</a>

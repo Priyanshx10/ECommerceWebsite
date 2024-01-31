@@ -1,4 +1,9 @@
 import React from 'react'
+import Image from 'next/image';
+import Mind from "../../../public/mind.jpg"
+import Mountain from "../../../public/Mountain.jpg"
+import Image03 from "../../public/Image 03.jpg"
+
 
 function HomeCards() {
   return (
@@ -9,11 +14,17 @@ function HomeCards() {
 
         <div className='flex flex-col justify-evenly '>
             <div className='flex flex-row justify-between'> 
-                <div className='border border-white rounded-2xl p-4 h-[500px] w-[500px] mx-10 text-center text-2xl my-10 '>
+                <div className='border border-white rounded-3xl p-4 h-[500px] w-[500px] mx-10 text-center text-2xl my-10'>
                     <text>Mind Mastery</text>
+                    <div className='flex justify-center mt-4'>
+                        <Image src={Mind} alt="Image description" width={350} height={380} className='rounded-2xl' />
+                    </div>
                 </div>
                 <div className='border border-white rounded-2xl p-4 h-[500px] w-[500px] mx-10 text-center text-2xl my-10 '>
                     <text>Body Bliss</text>
+                    <div className='flex justify-center mt-4'>
+                        <Image src={Mountain} alt="Image description" width={270} height={370} className='rounded-2xl' />
+                    </div>
                 </div>
             </div>
             <div className='flex flex-row justify-between'> 
