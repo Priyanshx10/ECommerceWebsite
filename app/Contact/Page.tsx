@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from '../components/Header'
 
 function Page() {
   return (
-    <div>Page</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 

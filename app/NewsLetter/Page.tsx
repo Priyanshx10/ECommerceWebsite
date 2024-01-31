@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from '../components/Header'
 
-function Page() {
+function Newsletter() {
   return (
-    <div>Page</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 
-export default Page
+export default Newsletter

@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from '../components/Header'
 
 function Learningpage() {
   return (
-    <div>Learningpage</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 

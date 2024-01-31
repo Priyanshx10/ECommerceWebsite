@@ -4,6 +4,8 @@ import Image from 'next/image';
 import Image01 from "../../public/Image 01.jpg"
 import Image02 from "../../public/Image 02.jpg"
 import Image03 from "../../public/Image 03.jpg"
+import Image04 from "../../public/Image04.jpg"
+import Image05 from "../../public/Image 05.jpg"
 
 
 function Body() {
@@ -61,23 +63,33 @@ function Body() {
        </div>
 
        <div className="feature-box rounded-xl bg-slate-900 p-4 text-white flex-row flex justify-around">
-         <h2 className="section-heading text-pink-600 text-2xl mb-2">Become Unrecognizable</h2>
-         <ul className="text-white">
-           <li>Imagine looking back and barely recognizing the person you once were.</li>
-           <li>Evolve into the best version of yourself.</li>
-           <li>Embark on a journey of self-discovery, growth, and transformation.</li>
-           <li>Feel empowered, confident, and ready to embrace life's possibilities.</li>
-         </ul>
+       <div>
+          <Image src={Image04} alt="Image description" width={500} height={500} className='rounded-2xl' />
+        </div>
+        <div className='justify-center flex flex-col'>
+          <h2 className="section-heading text-pink-600 text-2xl mb-2">Become Unrecognizable</h2>
+          <ul className="text-white">
+            <li>Imagine looking back and barely recognizing the person you once were.</li>
+            <li>Evolve into the best version of yourself.</li>
+            <li>Embark on a journey of self-discovery, growth, and transformation.</li>
+            <li>Feel empowered, confident, and ready to embrace life's possibilities.</li>
+          </ul>
+          </div>
        </div>
 
        <div className="feature-box rounded-xl bg-slate-900 p-4 text-white flex-row flex justify-around">
-         <h2 className="section-heading text-pink-600 text-2xl mb-2">A Community of Support</h2>
-         <ul className="text-white">
-           <li>You're not alone on this journey.</li>
-           <li>Connect with like-minded peers striving for positive change.</li>
-           <li>Share experiences and find encouragement.</li>
-           <li>Stay motivated and celebrate victories together.</li>
-         </ul>
+        <div className='justify-center flex flex-col'>
+          <h2 className="section-heading text-pink-600 text-2xl mb-2">A Community of Support</h2>
+          <ul className="text-white">
+            <li>You're not alone on this journey.</li>
+            <li>Connect with like-minded peers striving for positive change.</li>
+            <li>Share experiences and find encouragement.</li>
+            <li>Stay motivated and celebrate victories together.</li>
+          </ul>
+        </div>
+        <div>
+          <Image src={Image05} alt="Image description" width={500} height={500} className='rounded-2xl' />
+        </div>
        </div>
      </section>
    </div>
