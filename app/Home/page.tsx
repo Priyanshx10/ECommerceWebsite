@@ -1,8 +1,15 @@
 import React from 'react'
+import HomeCards from '../components/Cards/HomeCards'
+import Header from '../components/Header'
+import Footer from '../components/Footer'
 
 function Homepage() {
   return (
-    <div>Homepage</div>
+    <div>
+      <Header />
+      <HomeCards />
+      <Footer />
+    </div>
   )
 }
 

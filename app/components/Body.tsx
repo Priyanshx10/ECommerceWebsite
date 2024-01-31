@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import Image from 'next/image';
 import Image01 from "../../public/Image 01.jpg"
