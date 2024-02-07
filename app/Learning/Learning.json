@@ -1,0 +1,176 @@
+{
+    "learning": [
+        {
+            "id": 1,
+            "title": "Google IT Support Professional Certificate",
+            "link": "https://www.coursera.org/professional-certificates/google-it-support",
+            "images": ["https://example.com/image1.jpg"],
+            "description": "Gain the skills to become an entry-level IT support specialist, troubleshooting hardware and software, providing customer service, and managing networks.",
+            "duration": "6 months",
+            "rating": 4.8,
+            "level": "Beginner",
+            "price": 39,
+            "provider": "Google",
+            "tags": [
+                "IT support",
+                "hardware",
+                "software",
+                "customer service",
+                "networks",
+                "entry-level"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "IBM Data Science Professional Certificate",
+            "link": "https://www.coursera.org/professional-certificates/ibm-data-science",
+            "images": ["https://example.com/image2.jpg"],
+            "description": "Master data science fundamentals like analysis, visualization, and machine learning. Prepare for a data science career with this practical program.",
+            "duration": "9 months",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "price": 49,
+            "provider": "IBM",
+            "tags": [
+                "data science",
+                "data analysis",
+                "data visualization",
+                "machine learning",
+                "career-focused",
+                "intermediate"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "AWS Certified Cloud Practitioner Certification",
+            "link": "https://www.coursera.org/professional-certificates/aws-certified-cloud-practitioner",
+            "images": ["https://example.com/image5.jpg"],
+            "description": "Get started with Amazon Web Services (AWS) cloud computing and prepare for the AWS Certified Cloud Practitioner exam with this beginner-friendly program.",
+            "duration": "3 months",
+            "rating": 4.7,
+            "level": "Beginner",
+            "price": 49,
+            "provider": "Amazon Web Services",
+            "tags": [
+              "cloud computing",
+              "AWS",
+              "certification",
+              "beginner"
+            ]
+          },
+          {
+            "id": 4,
+            "title": "The Complete Web Development Bootcamp 2023",
+            "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp-2023/",
+            "images": ["https://example.com/image6.jpg"],
+            "description": "Learn everything you need to become a full-stack web developer, from HTML, CSS, and JavaScript to React, Node.js, and more.",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Intermediate",
+            "price": 199,
+            "provider": "Udemy",
+            "tags": [
+              "web development",
+              "frontend",
+              "backend",
+              "full-stack",
+              "React",
+              "Node.js"
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Python for Everybody Specialization",
+            "link": "https://www.coursera.org/specializations/python",
+            "images": ["https://example.com/image7.jpg"],
+            "description": "Master the fundamentals of Python programming, a versatile language used in data science, web development, and more.",
+            "duration": "6 months",
+            "rating": 4.9,
+            "level": "Beginner",
+            "price": 39,
+            "provider": "University of Michigan",
+            "tags": [
+              "Python",
+              "programming",
+              "data science",
+              "web development",
+              "beginner"
+            ]
+          },
+          {
+            "id": 6,
+            "title": "The Complete Digital Marketing Course 2023",
+            "link": "https://www.udemy.com/course/the-complete-digital-marketing-course-2023/",
+            "images": ["https://example.com/image8.jpg"],
+            "description": "Learn the essential skills for digital marketing, including SEO, social media marketing, email marketing, and paid advertising.",
+            "duration": "12 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "price": 199,
+            "provider": "Udemy",
+            "tags": [
+              "digital marketing",
+              "SEO",
+              "social media marketing",
+              "email marketing",
+              "paid advertising"
+            ]
+          },
+          {
+            "id": 7,
+            "title": "Machine Learning Crash Course by Google",
+            "link": "https://developers.google.com/machine-learning/crash-course/python",
+            "images": ["https://example.com/image9.jpg"],
+            "description": "Get a hands-on introduction to machine learning with Python, taught by Google engineers. Covers concepts like linear regression, decision trees, and neural networks.",
+            "duration": "5 hours",
+            "rating": 4.6,
+            "level": "Beginner",
+            "price": "Free",
+            "provider": "Google",
+            "tags": [
+              "machine learning",
+              "Python",
+              "artificial intelligence",
+              "beginner"
+            ]
+          },
+        {
+            "id": 9,
+            "title": "Microsoft Azure Fundamentals Certification",
+            "link": "https://www.coursera.org/specializations/microsoft-azure-essentials",
+            "images": ["https://example.com/image3.jpg"],
+            "description": "Learn the basics of cloud computing with Microsoft Azure, a leading cloud platform, and prepare for the Azure Fundamentals certification.",
+            "duration": "4 months",
+            "rating": 4.6,
+            "level": "Beginner",
+            "price": 49,
+            "provider": "Microsoft",
+            "tags": [
+                "cloud computing",
+                "Microsoft Azure",
+                "certification",
+                "beginner"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "CompTIA A+ Certification",
+            "link": "https://www.coursera.org/professional-certificates/comptia-a-plus",
+            "images": ["https://example.com/image4.jpg"],
+            "description": "Validate your IT technician skills with the globally recognized CompTIA A+ certification, covering hardware, software, and troubleshooting.",
+            "duration": "3 months",
+            "rating": 4.5,
+            "level": "Beginner",
+            "price": 49,
+            "provider": "CompTIA",
+            "tags": [
+                "IT technician",
+                "CompTIA A+",
+                "certification",
+                "hardware",
+                "software",
+                "troubleshooting"
+            ]
+        }
+    ]
+}

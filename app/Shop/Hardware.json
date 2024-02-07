@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple MacBook Air (M2, 2023)",
+      "brand": "Apple",
+      "description": "A thin and light laptop with a powerful M2 chip, long battery life, and a stunning Retina display.",
+      "category": "Laptops",
+      "rating": 4.8,
+      "price": 1199
+    },
+    {
+      "id": 2,
+      "name": "Dell Inspiron 3880",
+      "brand": "Dell",
+      "description": "A versatile desktop PC with a powerful Intel Core i5 processor, ample storage, and a sleek design.",
+      "category": "Desktops",
+      "rating": 4.5,
+      "price": 699
+    },
+    {
+      "id": 3,
+      "name": "Microsoft Surface Pro 9",
+      "brand": "Microsoft",
+      "description": "A detachable 2-in-1 tablet with a powerful Intel Evo processor, long battery life, and versatile kickstand.",
+      "category": "Tablets",
+      "rating": 4.7,
+      "price": 999
+    },
+    {
+      "id": 4,
+      "name": "Google Pixel 7 Pro",
+      "brand": "Google",
+      "description": "A flagship smartphone with a powerful Tensor G2 processor, innovative camera system, and clean Android experience.",
+      "category": "Smartphones",
+      "rating": 4.8,
+      "price": 1199
+    },
+    {
+      "id": 5,
+      "name": "Apple iMac 24-inch (2023)",
+      "brand": "Apple",
+      "description": "A stylish and powerful all-in-one desktop with a vibrant Retina display, M1 chip, and a sleek design.",
+      "category": "Desktops",
+      "rating": 4.7,
+      "price": 1299
+    },
+    {
+      "id": 10,
+      "name": "Microsoft Surface Pro 8",
+      "brand": "Microsoft",
+      "description": "A versatile and powerful tablet that doubles as a laptop with a detachable keyboard, Intel Evo Core i5 processor, and long-lasting battery life.",
+      "category": "Tablets",
+      "rating": 4.6,
+      "price": 899
+    }
+  ]
+}

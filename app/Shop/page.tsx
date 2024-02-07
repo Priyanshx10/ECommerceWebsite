@@ -1,10 +1,13 @@
 import React from 'react'
 import Header from '../components/Header'
+import ShopCard from './ShopCard'
 
 function page() {
   return (
     <div>
-      <Header />
+      <div><Header /></div>
+      <div><ShopCard /></div>
+      
     </div>
   )
 }
