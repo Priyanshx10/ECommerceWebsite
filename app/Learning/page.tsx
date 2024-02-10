@@ -2,7 +2,7 @@ import React from 'react'
 
 function Learningpage() {
   return (
-    <div>Learningpage</div>
+    <div>Hello World </div>
   )
 }
 
